@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kelly! <br/><a href="https://github.com/komobude2021">Web Developer</a></h1>
+<h1>Hi, I'm Kelly! <br/><a href="https://github.com/komobude2021"><p>Web Developer</p></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -8,6 +8,9 @@
   - <b>[MVC OOP - Login/Registration Form](https://github.com/komobude2021/Algorithms-Practice)</b>
   - <b>[Movie Management System - PHP CRUD Application](https://github.com/komobude2021/Algorithms-Practice)</b>
   - <b>[Machine Learning Application For Predicting New Death Outcomes](https://github.com/komobude2021/Algorithms-Practice)</b>
+
+<h2>📺 Academic Qualification:</h2>
+- <b>[Leeds Beckett University, United Kingdom - Master's Degree, Information Technology - Distinction]</b>
 
 <h2> 🤳 Connect with me:</h2>
 
