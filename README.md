@@ -5,7 +5,7 @@
   - <b>[Covid-19 Visualization Dashboard](https://github.com/komobude2021/)</b>
   - <b>[Full Stack eCommerce Web Application](https://github.com/komobude2021/)</b>
   - <b>[Blog Management System - Laravel](https://github.com/komobude2021/)</b>
-  - <b>[MVC OOP - Login/Registration Form](https://github.com/komobude2021/)</b>
+  - <b>[MVC OOP - Login/Registration Form](https://github.com/komobude2021/MVC-Login-Registration)</b>
   - <b>[Movie Management System - PHP CRUD Application](https://github.com/komobude2021/)</b>
   - <b>[Machine Learning Application For Predicting New Death Outcomes](https://github.com/komobude2021/)</b>
 
