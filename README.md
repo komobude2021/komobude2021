@@ -9,7 +9,7 @@
   - <b>[Movie Management System - PHP CRUD Application](https://github.com/komobude2021/mms)</b>
   - <b>[Machine Learning Application For Predicting New Death Outcomes](https://github.com/komobude2021/covid-machine-learning)</b>
 
-<h2>📺 Academic Qualification:</h2>
+<h2>✨ Academic Qualification:</h2>
 - <b>[Leeds Beckett University, United Kingdom - MSc., Information Technology]</b>
 
 
