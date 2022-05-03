@@ -10,7 +10,7 @@
   - <b>[Machine Learning Application For Predicting New Death Outcomes](https://github.com/komobude2021/Algorithms-Practice)</b>
 
 <h2>📺 Academic Qualification:</h2>
-- <b>[Leeds Beckett University, United Kingdom - Master's Degree, Information Technology - Distinction]</b>
+- <b>[Leeds Beckett University, United Kingdom - MSc., Information Technology]</b>
 
 <h2> 🤳 Connect with me:</h2>
 
