@@ -2,12 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-  - <b>[Covid-19 Visualization Dashboard](https://github.com/komobude2021/covid-dashoard)</b>
-  - <b>[Full Stack eCommerce Web Application](https://github.com/komobude2021/eCommerce)</b>
-  - <b>[Blog Management System - Laravel](https://github.com/komobude2021/bms)</b>
-  - <b>[MVC OOP - Login/Registration Form](https://github.com/komobude2021/MVC-Login-Registration)</b>
-  - <b>[Movie Management System - PHP CRUD Application](https://github.com/komobude2021/mms)</b>
-  - <b>[Machine Learning Application For Predicting New Death Outcomes](https://github.com/komobude2021/covid-machine-learning)</b>
+  - <b>[Laravel CGPA Calculator](https://github.com/komobude2021/Laravel_CGPA_Calculator)</b>
 
 <h2>✨ Academic Qualification:</h2>
 - <b>[Leeds Beckett University, United Kingdom - MSc., Information Technology]</b>
