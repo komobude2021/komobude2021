@@ -1,4 +1,4 @@
-<h2>Hi, I'm Kelly! <br/><a href="https://github.com/komobude2021"><p>Web Developer [PHP | OOP | MVC | TDD | MySQL | Laravel | APIs]</p></a></h2>
+<h2>Hi, I'm Kelly! <br/><a href="https://github.com/komobude2021"><p>Web Developer [PHP | OOP | MVC | TDD | MySQL | Laravel | Symfony | APIs]</p></a></h2>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
